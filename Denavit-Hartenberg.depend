@@ -1,0 +1,395 @@
+# depslib dependency file v1.0
+1511076228 source:c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1511076228 c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1511076228 c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1511076228 c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511076228 c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\include\triangle3d.h
+	"vector3d.h"
+
+1511076228 c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\include\vector3d.h
+	<math.h>
+
+1511076347 c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1511076228 source:c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1511076228 source:c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\src\matrix.cpp
+	"Matrix.h"
+
+1511076228 source:c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1511076228 source:c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\src\robot.cpp
+	"Robot.h"
+
+1511076228 source:c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511076228 source:c:\users\shabana\desktop\claseopengl-14-11-2017 - 01 (2)\denavit-hartenberg-master-master\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1511192803 source:c:\users\shabana\desktop\denavit-hartenberg-master-master-master\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1511076456 c:\users\shabana\desktop\denavit-hartenberg-master-master-master\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1511122914 c:\users\shabana\desktop\denavit-hartenberg-master-master-master\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1511076456 c:\users\shabana\desktop\denavit-hartenberg-master-master-master\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511076456 c:\users\shabana\desktop\denavit-hartenberg-master-master-master\include\triangle3d.h
+	"vector3d.h"
+
+1511076456 c:\users\shabana\desktop\denavit-hartenberg-master-master-master\include\vector3d.h
+	<math.h>
+
+1511076456 c:\users\shabana\desktop\denavit-hartenberg-master-master-master\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1511148302 source:c:\users\shabana\desktop\denavit-hartenberg-master-master-master\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1511076456 source:c:\users\shabana\desktop\denavit-hartenberg-master-master-master\src\matrix.cpp
+	"Matrix.h"
+
+1511076456 source:c:\users\shabana\desktop\denavit-hartenberg-master-master-master\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1511191815 source:c:\users\shabana\desktop\denavit-hartenberg-master-master-master\src\robot.cpp
+	"Robot.h"
+
+1511076456 source:c:\users\shabana\desktop\denavit-hartenberg-master-master-master\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511076456 source:c:\users\shabana\desktop\denavit-hartenberg-master-master-master\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1511670899 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1511188940 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1511670500 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1511188940 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511188940 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\include\triangle3d.h
+	"vector3d.h"
+
+1511188940 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\include\vector3d.h
+	<math.h>
+
+1511188940 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1511393060 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1511188940 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\src\matrix.cpp
+	"Matrix.h"
+
+1511188940 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1511807405 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\src\robot.cpp
+	"Robot.h"
+
+1511188940 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511188940 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1511343286 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1511188940 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1511343312 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1511188940 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511188940 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\include\triangle3d.h
+	"vector3d.h"
+
+1511188940 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\include\vector3d.h
+	<math.h>
+
+1511188940 c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1511341339 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1511188940 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\src\matrix.cpp
+	"Matrix.h"
+
+1511188940 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1511188940 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511188940 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1511343286 source:c:\users\asus\documents\itt ing\9vo semestre\robotica\unidad 3\denavit-hartenberg-master puma1\src\robot.cpp
+	"Robot.h"
+
+1511393058 source:c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1511188940 c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1511561063 c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1511188940 c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511188940 c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\include\triangle3d.h
+	"vector3d.h"
+
+1511188940 c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\include\vector3d.h
+	<math.h>
+
+1511188940 c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1511188940 source:c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\src\matrix.cpp
+	"Matrix.h"
+
+1511188940 source:c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1511561163 source:c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\src\robot.cpp
+	"Robot.h"
+
+1511188940 source:c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511188940 source:c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1511550718 source:c:\users\val andrade\documents\curso-robotica-cinemática rotacional con cubo\unidad 3\denavit-hartenberg-master puma1\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1511670900 source:c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1511188940 c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1511670502 c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1511188940 c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511188940 c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\include\triangle3d.h
+	"vector3d.h"
+
+1511188940 c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\include\vector3d.h
+	<math.h>
+
+1511188940 c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1511393060 source:c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1511188940 source:c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\src\matrix.cpp
+	"Matrix.h"
+
+1511188940 source:c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1511807406 source:c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\src\robot.cpp
+	"Robot.h"
+
+1511188940 source:c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511188940 source:c:\users\eliseo rivera silva\desktop\denavit-hartenberg-master\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1512867156 source:f:\denavit-hartenberg-master\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
+1511188940 f:\denavit-hartenberg-master\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1512862588 f:\denavit-hartenberg-master\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1511188940 f:\denavit-hartenberg-master\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511188940 f:\denavit-hartenberg-master\include\triangle3d.h
+	"vector3d.h"
+
+1511188940 f:\denavit-hartenberg-master\include\vector3d.h
+	<math.h>
+
+1512866746 f:\denavit-hartenberg-master\include\matrix.h
+	"vector3d.h"
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1512859202 source:f:\denavit-hartenberg-master\src\matrix.cpp
+	"Matrix.h"
+
+1511188940 source:f:\denavit-hartenberg-master\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1512867588 source:f:\denavit-hartenberg-master\src\robot.cpp
+	"Robot.h"
+
+1511188940 source:f:\denavit-hartenberg-master\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511188940 source:f:\denavit-hartenberg-master\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1512866772 source:f:\denavit-hartenberg-master\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
